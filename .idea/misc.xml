@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_bag_icon.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_bag_line.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_bag_solid.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_round_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_white_list_solid.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_whitelist_icon.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/BookUI/app/src/main/res/drawable/ic_whitelist_solid.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
